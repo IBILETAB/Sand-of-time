@@ -41,6 +41,7 @@ This project uses a **load cell with HX711 amplifier** and a **DFPlayer Mini MP3
    [DFRobotDFPlayerMini Library](https://github.com/DFRobot/DFRobotDFPlayerMini)  
    For controlling the DFPlayer Mini (play, loop, volume, etc.).
 
+3. **Software Serial Library**
 ---
 
 ## How It Works
