@@ -42,6 +42,7 @@ This project uses a **load cell with HX711 amplifier** and a **DFPlayer Mini MP3
    For controlling the DFPlayer Mini (play, loop, volume, etc.).
 
 3. **Software Serial Library**
+      [https://github.com/PaulStoffregen/SoftwareSerial]
 ---
 
 ## How It Works
